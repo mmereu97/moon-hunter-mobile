@@ -7,6 +7,8 @@ like "the full Moon rising behind that ridge" or "the Moon framed in the top of
 the fir tree, seen from my window". It computes the Moon's position, phase,
 distance and rise/set entirely on‑device — no accounts, no network calls, no ads.
 
+<p align="center"><img src="docs/screenshot.png" width="300" alt="Moon Hunter: live sky compass, time shift and moon phase"></p>
+
 It is a Flutter rewrite of my earlier [Python/PyQt5 app](https://github.com/mmereu97/Moonhunter), redesigned
 around a live **polar compass** that shows the Moon "rising out of the sea" at
 the horizon and floating up toward the zenith.
